@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "Our Designers"
-    url: /Designers
+    url: /designers
   - title: "Brides"
-    url: /Brides/
+    url: /brides/
   - title: "Plus Sized Brides"
-    url: /PlusSize
+    url: /plus
   - title: "Bridesmaids"
-    url: /Bridesmaids
+    url: /maids
     - title: "Sale Items"
-    url: /Sale
+    url: /sale
     - title: "FAQ"
-    url: /FAQ
+    url: /faq
     - title: "Book Appointment"
     url: /
