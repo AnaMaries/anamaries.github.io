@@ -182,6 +182,18 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+#Collections
+Collections:
+  brides:
+    output: true
+    permalink: /:collection/:path/
+  maids:
+    output: true
+    permalink: /:collection/:path/
+  plus:
+    output: true
+    permalink: /:collection/:path/
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
