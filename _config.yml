@@ -10,24 +10,24 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Ana Marie's Bridal | Jefferson City, Missouri"
-title_separator          : "-"
-subtitle                 : Welcome to Ana Marie's Bridal. 
+title                    : "Ana Marie's Bridal"
+title_separator          : "|"
+subtitle                 : "Jefferson City's Bridal Boutique"
 name                     : "Ana Marie's Bridal"
-description              : "An amazing website."
-url                      : "https://anamaries.github.io/"
+description              : "Jefferson City's Bridal Boutique offering exquisite designs for Brides, Plus Sized Brides and Maids of Mid Missouri"
+url                      : "https://anamaries.github.io/"  #add domain name later
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "anamaries/anamaries" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/banner.png"
+logo                     : "/assets/images/banner.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -94,13 +94,15 @@ facebook:
   username               : anamariesbridal
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/logo144.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/anamaries"
+    - "https://instagram.com/anamaries"
 
 # Analytics
 analytics:
@@ -112,10 +114,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Imperial Blue Midwest Oasis"
+  name             : #"Imperial Blue Midwest Oasis"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : # "Somewhere"
   email            :
   links:
     - label: "Email"
@@ -136,10 +138,10 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/anamaries"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/anamaries"
 
 # Reading Files
 include:
