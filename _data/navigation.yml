@@ -6,11 +6,11 @@ main:
     url: /brides/
   - title: "Plus Sized Brides"
     url: /plus/
-    - title: "Bridesmaids"
+  - title: "Bridesmaids"
     url: /maids/
-    - title: "Sale Items"
+  - title: "Sale Items"
     url: /sale/
-    - title: "FAQ"
+  - title: "FAQ"
     url: /faq/
-    - title: "Book Appointment"
+  - title: "Book Appointment"
     url: /appt/
