@@ -8,10 +8,10 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt: >
+#excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.27.1">Latest release v4.27.1</a></small>
-feature_row:
+#feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Super customizable"
