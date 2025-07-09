@@ -24,7 +24,7 @@ name                     : "Ana Marie's Bridal"
 description              : "Jefferson City's Bridal Boutique offering exquisite designs for Brides, Plus Sized Brides and Maids of Mid Missouri"
 url                      : "https://anamaries.github.io/"  #add domain name later
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "AnaMaries/anamaries" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "AnaMaries/theme" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/banner.png"
 logo                     : "/assets/images/banner.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
