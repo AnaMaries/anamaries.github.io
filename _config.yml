@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Ana Marie's Bridal"
 title_separator          : "|"
-subtitle                 : "Jefferson City's Bridal Boutique"
+subtitle                 : # "Jefferson City's Bridal Boutique"
 name                     : "Ana Marie's Bridal"
 description              : "Jefferson City's Bridal Boutique offering exquisite designs for Brides, Plus Sized Brides and Maids of Mid Missouri"
 url                      : "https://anamaries.github.io/"  #add domain name later
